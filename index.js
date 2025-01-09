@@ -1,6 +1,6 @@
 function div() {
     let x=document.createElement("div");
-    x.style.height="550px";
+    x.style.height="600px";
     x.style.width="350px";
     x.style.border="6px solid red";
     x.style.backgroundColor="lightgreen";
